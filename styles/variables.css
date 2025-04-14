@@ -5,7 +5,15 @@
     --accent-font-family: 'PressStart2P-Regular', sans-serif;
     --main-text-weight: 400;
     --title-text-weight: 700;
+    --main-color: #000;
+    --accent-color: #000;
     --bg-color: #fff;
+    --button-text-color: #fff;
     --main-font-size: 18px;
-
+    --text-stroke-color: #fff;
+    --bg-image: repeating-linear-gradient(to right, #d3d3d3 0, #d3d3d3 2px, transparent 2px, transparent 4px),
+    repeating-linear-gradient(0deg, #d3d3d3 0, #d3d3d3 2px, transparent 2px, transparent 4px),
+    linear-gradient(#e7e7e7 0.01%, #1a1a1a);
+    --counter-like-color: #000;
+    --animation-fill-color: #FF0000;
 }

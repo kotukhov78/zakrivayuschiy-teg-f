@@ -1,8 +1,9 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
 
 :root {
+    --inline-size-page: clamp(23.4375rem, 16.2852rem + 30.5164vw, 43.75rem);
     --main-font-family: 'Inter-Variable', sans-serif;
-    --accent-font-family: 'PressStart2P-Regular', sans-serif;
+    --accent-font-family: 'PressStart2P', fantasy, sans-serif;
     --main-text-weight: 400;
     --title-text-weight: 700;
     --main-color: #000;
